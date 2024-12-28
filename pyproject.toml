@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "webscraper-epuskesmas"
+version = "0.1.0"
+description = ""
+authors = ["frsnmk <razedman@gmail.com>"]
+readme = "README.md"
+packages = [{include = "webscraper_epuskesmas"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+selenium = "^4.27.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

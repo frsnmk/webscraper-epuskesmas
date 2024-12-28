@@ -1,0 +1,634 @@
+2024-12-28 10:27:48,560 - INFO - Login berhasil.
+2024-12-28 10:27:54,251 - INFO - Processing: 01-01-2023 to 31-01-2023
+2024-12-28 10:27:54,559 - INFO - Berhasil mengisi filter tanggal 01-01-2023
+2024-12-28 10:27:54,681 - INFO - Berhasil mengisi filter tanggal 31-01-2023
+2024-12-28 10:27:55,455 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:27:55,612 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:27:55,691 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:27:56,269 - INFO - Berhasil membuka modal
+2024-12-28 10:27:56,280 - INFO - Ditemukan 4 tombol Export Excel.
+2024-12-28 10:28:14,271 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:28:14,271 - INFO - Waiting for download...
+2024-12-28 10:28:14,271 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien.xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien.xlsx'
+2024-12-28 10:28:19,280 - INFO - File Laporan Harian - Pelayanan Pasien.xlsx berhasil diunduh.
+2024-12-28 10:28:37,337 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:28:37,337 - INFO - Waiting for download...
+2024-12-28 10:28:37,337 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (1).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (1).xlsx'
+2024-12-28 10:28:42,346 - INFO - File Laporan Harian - Pelayanan Pasien (1).xlsx berhasil diunduh.
+2024-12-28 10:29:00,040 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:29:00,040 - INFO - Waiting for download...
+2024-12-28 10:29:00,041 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (2).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (2).xlsx'
+2024-12-28 10:29:05,049 - INFO - File Laporan Harian - Pelayanan Pasien (2).xlsx berhasil diunduh.
+2024-12-28 10:29:18,415 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:29:18,415 - INFO - Waiting for download...
+2024-12-28 10:29:18,416 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (3).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (3).xlsx'
+2024-12-28 10:29:23,425 - INFO - File Laporan Harian - Pelayanan Pasien (3).xlsx berhasil diunduh.
+2024-12-28 10:29:23,516 - INFO - Processing: 01-02-2023 to 28-02-2023
+2024-12-28 10:29:23,887 - INFO - Berhasil mengisi filter tanggal 01-02-2023
+2024-12-28 10:29:24,217 - INFO - Berhasil mengisi filter tanggal 28-02-2023
+2024-12-28 10:29:26,768 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:29:30,887 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:29:35,806 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:29:36,200 - INFO - Berhasil membuka modal
+2024-12-28 10:29:36,266 - INFO - Ditemukan 4 tombol Export Excel.
+2024-12-28 10:29:54,673 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:29:54,674 - INFO - Waiting for download...
+2024-12-28 10:29:54,674 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (4).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (4).xlsx'
+2024-12-28 10:29:59,676 - INFO - File Laporan Harian - Pelayanan Pasien (4).xlsx berhasil diunduh.
+2024-12-28 10:30:17,829 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:30:17,829 - INFO - Waiting for download...
+2024-12-28 10:30:17,830 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (5).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (5).xlsx'
+2024-12-28 10:30:22,838 - INFO - File Laporan Harian - Pelayanan Pasien (5).xlsx berhasil diunduh.
+2024-12-28 10:30:40,995 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:30:40,995 - INFO - Waiting for download...
+2024-12-28 10:30:40,995 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (6).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (6).xlsx'
+2024-12-28 10:30:46,004 - INFO - File Laporan Harian - Pelayanan Pasien (6).xlsx berhasil diunduh.
+2024-12-28 10:31:03,444 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:31:03,444 - INFO - Waiting for download...
+2024-12-28 10:31:03,444 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (7).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (7).xlsx'
+2024-12-28 10:31:08,445 - INFO - File Laporan Harian - Pelayanan Pasien (7).xlsx berhasil diunduh.
+2024-12-28 10:31:08,563 - INFO - Processing: 01-03-2023 to 31-03-2023
+2024-12-28 10:31:09,296 - INFO - Berhasil mengisi filter tanggal 01-03-2023
+2024-12-28 10:31:09,584 - INFO - Berhasil mengisi filter tanggal 31-03-2023
+2024-12-28 10:31:12,067 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:31:14,454 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:31:16,544 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:31:17,179 - INFO - Berhasil membuka modal
+2024-12-28 10:31:17,192 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 10:31:35,663 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:31:35,663 - INFO - Waiting for download...
+2024-12-28 10:31:35,663 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (8).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (8).xlsx'
+2024-12-28 10:31:40,671 - INFO - File Laporan Harian - Pelayanan Pasien (8).xlsx berhasil diunduh.
+2024-12-28 10:31:58,748 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:31:58,748 - INFO - Waiting for download...
+2024-12-28 10:31:58,748 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (9).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (9).xlsx'
+2024-12-28 10:32:03,763 - INFO - File Laporan Harian - Pelayanan Pasien (9).xlsx berhasil diunduh.
+2024-12-28 10:32:22,049 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:32:22,050 - INFO - Waiting for download...
+2024-12-28 10:32:22,050 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (10).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (10).xlsx'
+2024-12-28 10:32:27,056 - INFO - File Laporan Harian - Pelayanan Pasien (10).xlsx berhasil diunduh.
+2024-12-28 10:32:45,301 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:32:45,301 - INFO - Waiting for download...
+2024-12-28 10:32:45,301 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (11).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (11).xlsx'
+2024-12-28 10:32:50,310 - INFO - File Laporan Harian - Pelayanan Pasien (11).xlsx berhasil diunduh.
+2024-12-28 10:32:58,129 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:32:58,129 - INFO - Waiting for download...
+2024-12-28 10:32:58,129 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (12).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (12).xlsx'
+2024-12-28 10:33:03,138 - INFO - File Laporan Harian - Pelayanan Pasien (12).xlsx berhasil diunduh.
+2024-12-28 10:33:03,240 - INFO - Processing: 01-04-2023 to 30-04-2023
+2024-12-28 10:33:04,058 - INFO - Berhasil mengisi filter tanggal 01-04-2023
+2024-12-28 10:33:04,656 - INFO - Berhasil mengisi filter tanggal 30-04-2023
+2024-12-28 10:33:07,185 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:33:11,885 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:33:16,572 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:33:16,715 - INFO - Berhasil membuka modal
+2024-12-28 10:33:16,754 - INFO - Ditemukan 3 tombol Export Excel.
+2024-12-28 10:33:35,395 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:33:35,395 - INFO - Waiting for download...
+2024-12-28 10:33:35,395 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (13).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (13).xlsx'
+2024-12-28 10:33:40,403 - INFO - File Laporan Harian - Pelayanan Pasien (13).xlsx berhasil diunduh.
+2024-12-28 10:33:58,087 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:33:58,088 - INFO - Waiting for download...
+2024-12-28 10:33:58,088 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (14).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (14).xlsx'
+2024-12-28 10:34:03,093 - INFO - File Laporan Harian - Pelayanan Pasien (14).xlsx berhasil diunduh.
+2024-12-28 10:34:18,077 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:34:18,078 - INFO - Waiting for download...
+2024-12-28 10:34:18,078 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (15).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (15).xlsx'
+2024-12-28 10:34:23,079 - INFO - File Laporan Harian - Pelayanan Pasien (15).xlsx berhasil diunduh.
+2024-12-28 10:34:23,209 - INFO - Processing: 01-05-2023 to 31-05-2023
+2024-12-28 10:34:23,968 - INFO - Berhasil mengisi filter tanggal 01-05-2023
+2024-12-28 10:34:24,406 - INFO - Berhasil mengisi filter tanggal 31-05-2023
+2024-12-28 10:34:26,094 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:34:26,517 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:34:26,714 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:34:27,354 - INFO - Berhasil membuka modal
+2024-12-28 10:34:27,379 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 10:34:45,425 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:34:45,425 - INFO - Waiting for download...
+2024-12-28 10:34:45,425 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (16).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (16).xlsx'
+2024-12-28 10:34:50,430 - INFO - File Laporan Harian - Pelayanan Pasien (16).xlsx berhasil diunduh.
+2024-12-28 10:35:08,177 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:35:08,177 - INFO - Waiting for download...
+2024-12-28 10:35:08,177 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (17).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (17).xlsx'
+2024-12-28 10:35:13,188 - INFO - File Laporan Harian - Pelayanan Pasien (17).xlsx berhasil diunduh.
+2024-12-28 10:35:31,087 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:35:31,087 - INFO - Waiting for download...
+2024-12-28 10:35:31,088 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (18).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (18).xlsx'
+2024-12-28 10:35:36,096 - INFO - File Laporan Harian - Pelayanan Pasien (18).xlsx berhasil diunduh.
+2024-12-28 10:35:54,082 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:35:54,082 - INFO - Waiting for download...
+2024-12-28 10:35:54,083 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (19).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (19).xlsx'
+2024-12-28 10:35:59,096 - INFO - File Laporan Harian - Pelayanan Pasien (19).xlsx berhasil diunduh.
+2024-12-28 10:36:12,001 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:36:12,002 - INFO - Waiting for download...
+2024-12-28 10:36:12,002 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (20).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (20).xlsx'
+2024-12-28 10:36:17,010 - INFO - File Laporan Harian - Pelayanan Pasien (20).xlsx berhasil diunduh.
+2024-12-28 10:36:17,083 - INFO - Processing: 01-06-2023 to 30-06-2023
+2024-12-28 10:36:17,387 - INFO - Berhasil mengisi filter tanggal 01-06-2023
+2024-12-28 10:36:17,757 - INFO - Berhasil mengisi filter tanggal 30-06-2023
+2024-12-28 10:36:18,597 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:36:18,739 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:36:18,803 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:36:19,374 - INFO - Berhasil membuka modal
+2024-12-28 10:36:19,399 - INFO - Ditemukan 4 tombol Export Excel.
+2024-12-28 10:36:37,028 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:36:37,028 - INFO - Waiting for download...
+2024-12-28 10:36:37,028 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (21).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (21).xlsx'
+2024-12-28 10:36:42,043 - INFO - File Laporan Harian - Pelayanan Pasien (21).xlsx berhasil diunduh.
+2024-12-28 10:37:00,064 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:37:00,064 - INFO - Waiting for download...
+2024-12-28 10:37:00,064 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (22).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (22).xlsx'
+2024-12-28 10:37:05,070 - INFO - File Laporan Harian - Pelayanan Pasien (22).xlsx berhasil diunduh.
+2024-12-28 10:37:23,072 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:37:23,072 - INFO - Waiting for download...
+2024-12-28 10:37:23,072 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (23).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (23).xlsx'
+2024-12-28 10:37:28,079 - INFO - File Laporan Harian - Pelayanan Pasien (23).xlsx berhasil diunduh.
+2024-12-28 10:37:41,902 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:37:41,902 - INFO - Waiting for download...
+2024-12-28 10:37:41,902 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (24).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (24).xlsx'
+2024-12-28 10:37:46,914 - INFO - File Laporan Harian - Pelayanan Pasien (24).xlsx berhasil diunduh.
+2024-12-28 10:37:46,996 - INFO - Processing: 01-07-2023 to 31-07-2023
+2024-12-28 10:37:47,352 - INFO - Berhasil mengisi filter tanggal 01-07-2023
+2024-12-28 10:37:47,886 - INFO - Berhasil mengisi filter tanggal 31-07-2023
+2024-12-28 10:37:50,490 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:37:59,121 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:37:59,802 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:38:00,159 - INFO - Berhasil membuka modal
+2024-12-28 10:38:00,410 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 10:38:18,653 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:38:18,653 - INFO - Waiting for download...
+2024-12-28 10:38:18,653 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (25).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (25).xlsx'
+2024-12-28 10:38:23,667 - INFO - File Laporan Harian - Pelayanan Pasien (25).xlsx berhasil diunduh.
+2024-12-28 10:38:41,799 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:38:41,799 - INFO - Waiting for download...
+2024-12-28 10:38:41,800 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (26).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (26).xlsx'
+2024-12-28 10:38:46,803 - INFO - File Laporan Harian - Pelayanan Pasien (26).xlsx berhasil diunduh.
+2024-12-28 10:39:04,837 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:39:04,837 - INFO - Waiting for download...
+2024-12-28 10:39:04,838 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (27).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (27).xlsx'
+2024-12-28 10:39:09,839 - INFO - File Laporan Harian - Pelayanan Pasien (27).xlsx berhasil diunduh.
+2024-12-28 10:39:28,011 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:39:28,011 - INFO - Waiting for download...
+2024-12-28 10:39:28,011 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (28).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (28).xlsx'
+2024-12-28 10:39:33,024 - INFO - File Laporan Harian - Pelayanan Pasien (28).xlsx berhasil diunduh.
+2024-12-28 10:39:44,250 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:39:44,250 - INFO - Waiting for download...
+2024-12-28 10:39:44,250 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (29).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (29).xlsx'
+2024-12-28 10:39:49,265 - INFO - File Laporan Harian - Pelayanan Pasien (29).xlsx berhasil diunduh.
+2024-12-28 10:39:49,437 - INFO - Processing: 01-08-2023 to 31-08-2023
+2024-12-28 10:39:50,657 - INFO - Berhasil mengisi filter tanggal 01-08-2023
+2024-12-28 10:39:51,448 - INFO - Berhasil mengisi filter tanggal 31-08-2023
+2024-12-28 10:39:55,322 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:40:00,536 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:40:06,277 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:40:06,479 - INFO - Berhasil membuka modal
+2024-12-28 10:40:06,604 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 10:40:25,000 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:40:25,001 - INFO - Waiting for download...
+2024-12-28 10:40:25,001 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (30).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (30).xlsx'
+2024-12-28 10:40:30,001 - INFO - File Laporan Harian - Pelayanan Pasien (30).xlsx berhasil diunduh.
+2024-12-28 10:40:47,827 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:40:47,827 - INFO - Waiting for download...
+2024-12-28 10:40:47,827 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (31).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (31).xlsx'
+2024-12-28 10:40:52,836 - INFO - File Laporan Harian - Pelayanan Pasien (31).xlsx berhasil diunduh.
+2024-12-28 10:41:10,943 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:41:10,944 - INFO - Waiting for download...
+2024-12-28 10:41:10,944 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (32).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (32).xlsx'
+2024-12-28 10:41:15,947 - INFO - File Laporan Harian - Pelayanan Pasien (32).xlsx berhasil diunduh.
+2024-12-28 10:41:34,431 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:41:34,432 - INFO - Waiting for download...
+2024-12-28 10:41:34,432 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (33).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (33).xlsx'
+2024-12-28 10:41:39,443 - INFO - File Laporan Harian - Pelayanan Pasien (33).xlsx berhasil diunduh.
+2024-12-28 10:41:56,962 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:41:56,963 - INFO - Waiting for download...
+2024-12-28 10:41:56,963 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (34).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (34).xlsx'
+2024-12-28 10:42:01,974 - INFO - File Laporan Harian - Pelayanan Pasien (34).xlsx berhasil diunduh.
+2024-12-28 10:42:02,076 - INFO - Processing: 01-09-2023 to 30-09-2023
+2024-12-28 10:42:02,865 - INFO - Berhasil mengisi filter tanggal 01-09-2023
+2024-12-28 10:42:03,223 - INFO - Berhasil mengisi filter tanggal 30-09-2023
+2024-12-28 10:42:05,579 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:42:08,510 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:42:12,269 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:42:12,689 - INFO - Berhasil membuka modal
+2024-12-28 10:42:12,806 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 10:42:31,165 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:42:31,165 - INFO - Waiting for download...
+2024-12-28 10:42:31,165 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (35).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (35).xlsx'
+2024-12-28 10:42:36,175 - INFO - File Laporan Harian - Pelayanan Pasien (35).xlsx berhasil diunduh.
+2024-12-28 10:42:54,052 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:42:54,052 - INFO - Waiting for download...
+2024-12-28 10:42:54,052 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (36).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (36).xlsx'
+2024-12-28 10:42:59,054 - INFO - File Laporan Harian - Pelayanan Pasien (36).xlsx berhasil diunduh.
+2024-12-28 10:43:17,017 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:43:17,017 - INFO - Waiting for download...
+2024-12-28 10:43:17,017 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (37).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (37).xlsx'
+2024-12-28 10:43:22,025 - INFO - File Laporan Harian - Pelayanan Pasien (37).xlsx berhasil diunduh.
+2024-12-28 10:43:39,749 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:43:39,749 - INFO - Waiting for download...
+2024-12-28 10:43:39,749 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (38).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (38).xlsx'
+2024-12-28 10:43:44,757 - INFO - File Laporan Harian - Pelayanan Pasien (38).xlsx berhasil diunduh.
+2024-12-28 10:44:02,000 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:44:02,000 - INFO - Waiting for download...
+2024-12-28 10:44:02,000 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (39).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (39).xlsx'
+2024-12-28 10:44:07,014 - INFO - File Laporan Harian - Pelayanan Pasien (39).xlsx berhasil diunduh.
+2024-12-28 10:44:07,116 - INFO - Processing: 01-10-2023 to 31-10-2023
+2024-12-28 10:44:07,900 - INFO - Berhasil mengisi filter tanggal 01-10-2023
+2024-12-28 10:44:08,333 - INFO - Berhasil mengisi filter tanggal 31-10-2023
+2024-12-28 10:44:09,247 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:44:09,429 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:44:09,693 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:44:10,373 - INFO - Berhasil membuka modal
+2024-12-28 10:44:10,387 - INFO - Ditemukan 6 tombol Export Excel.
+2024-12-28 10:44:28,574 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:44:28,574 - INFO - Waiting for download...
+2024-12-28 10:44:28,574 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (40).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (40).xlsx'
+2024-12-28 10:44:33,577 - INFO - File Laporan Harian - Pelayanan Pasien (40).xlsx berhasil diunduh.
+2024-12-28 10:44:51,302 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:44:51,302 - INFO - Waiting for download...
+2024-12-28 10:44:51,302 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (41).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (41).xlsx'
+2024-12-28 10:44:56,317 - INFO - File Laporan Harian - Pelayanan Pasien (41).xlsx berhasil diunduh.
+2024-12-28 10:45:14,120 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:45:14,121 - INFO - Waiting for download...
+2024-12-28 10:45:14,121 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (42).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (42).xlsx'
+2024-12-28 10:45:19,131 - INFO - File Laporan Harian - Pelayanan Pasien (42).xlsx berhasil diunduh.
+2024-12-28 10:45:37,063 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:45:37,063 - INFO - Waiting for download...
+2024-12-28 10:45:37,065 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (43).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (43).xlsx'
+2024-12-28 10:45:42,073 - INFO - File Laporan Harian - Pelayanan Pasien (43).xlsx berhasil diunduh.
+2024-12-28 10:46:00,476 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:46:00,476 - INFO - Waiting for download...
+2024-12-28 10:46:00,476 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (44).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (44).xlsx'
+2024-12-28 10:46:05,483 - INFO - File Laporan Harian - Pelayanan Pasien (44).xlsx berhasil diunduh.
+2024-12-28 10:46:14,902 - INFO - Mengklik tombol Export Excel ke-6
+2024-12-28 10:46:14,903 - INFO - Waiting for download...
+2024-12-28 10:46:14,903 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (45).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (45).xlsx'
+2024-12-28 10:46:19,904 - INFO - File Laporan Harian - Pelayanan Pasien (45).xlsx berhasil diunduh.
+2024-12-28 10:46:19,996 - INFO - Processing: 01-11-2023 to 30-11-2023
+2024-12-28 10:46:20,332 - INFO - Berhasil mengisi filter tanggal 01-11-2023
+2024-12-28 10:46:20,636 - INFO - Berhasil mengisi filter tanggal 30-11-2023
+2024-12-28 10:46:23,289 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:46:31,554 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:46:32,386 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:46:32,874 - INFO - Berhasil membuka modal
+2024-12-28 10:46:33,006 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 10:46:51,416 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:46:51,416 - INFO - Waiting for download...
+2024-12-28 10:46:51,416 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (46).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (46).xlsx'
+2024-12-28 10:46:56,417 - INFO - File Laporan Harian - Pelayanan Pasien (46).xlsx berhasil diunduh.
+2024-12-28 10:47:14,368 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:47:14,369 - INFO - Waiting for download...
+2024-12-28 10:47:14,369 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (47).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (47).xlsx'
+2024-12-28 10:47:19,383 - INFO - File Laporan Harian - Pelayanan Pasien (47).xlsx berhasil diunduh.
+2024-12-28 10:47:37,443 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:47:37,443 - INFO - Waiting for download...
+2024-12-28 10:47:37,443 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (48).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (48).xlsx'
+2024-12-28 10:47:42,446 - INFO - File Laporan Harian - Pelayanan Pasien (48).xlsx berhasil diunduh.
+2024-12-28 10:48:00,205 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:48:00,205 - INFO - Waiting for download...
+2024-12-28 10:48:00,205 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (49).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (49).xlsx'
+2024-12-28 10:48:05,214 - INFO - File Laporan Harian - Pelayanan Pasien (49).xlsx berhasil diunduh.
+2024-12-28 10:48:20,818 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:48:20,818 - INFO - Waiting for download...
+2024-12-28 10:48:20,819 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (50).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (50).xlsx'
+2024-12-28 10:48:25,821 - INFO - File Laporan Harian - Pelayanan Pasien (50).xlsx berhasil diunduh.
+2024-12-28 10:48:25,932 - INFO - Processing: 01-12-2023 to 31-12-2023
+2024-12-28 10:48:26,683 - INFO - Berhasil mengisi filter tanggal 01-12-2023
+2024-12-28 10:48:27,064 - INFO - Berhasil mengisi filter tanggal 31-12-2023
+2024-12-28 10:48:29,267 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:48:31,185 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:48:33,172 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:48:33,274 - INFO - Berhasil membuka modal
+2024-12-28 10:48:33,300 - INFO - Ditemukan 6 tombol Export Excel.
+2024-12-28 10:48:51,425 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:48:51,425 - INFO - Waiting for download...
+2024-12-28 10:48:51,426 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (51).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (51).xlsx'
+2024-12-28 10:48:56,438 - INFO - File Laporan Harian - Pelayanan Pasien (51).xlsx berhasil diunduh.
+2024-12-28 10:49:14,135 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:49:14,135 - INFO - Waiting for download...
+2024-12-28 10:49:14,136 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (52).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (52).xlsx'
+2024-12-28 10:49:19,147 - INFO - File Laporan Harian - Pelayanan Pasien (52).xlsx berhasil diunduh.
+2024-12-28 10:49:36,867 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:49:36,867 - INFO - Waiting for download...
+2024-12-28 10:49:36,868 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (53).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (53).xlsx'
+2024-12-28 10:49:41,872 - INFO - File Laporan Harian - Pelayanan Pasien (53).xlsx berhasil diunduh.
+2024-12-28 10:49:59,310 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:49:59,310 - INFO - Waiting for download...
+2024-12-28 10:49:59,310 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (54).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (54).xlsx'
+2024-12-28 10:50:04,321 - INFO - File Laporan Harian - Pelayanan Pasien (54).xlsx berhasil diunduh.
+2024-12-28 10:50:22,591 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:50:22,591 - INFO - Waiting for download...
+2024-12-28 10:50:22,591 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (55).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (55).xlsx'
+2024-12-28 10:50:27,594 - INFO - File Laporan Harian - Pelayanan Pasien (55).xlsx berhasil diunduh.
+2024-12-28 10:50:40,900 - INFO - Mengklik tombol Export Excel ke-6
+2024-12-28 10:50:40,900 - INFO - Waiting for download...
+2024-12-28 10:50:40,900 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (56).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (56).xlsx'
+2024-12-28 10:50:45,914 - INFO - File Laporan Harian - Pelayanan Pasien (56).xlsx berhasil diunduh.
+2024-12-28 10:50:46,022 - INFO - Processing: 01-01-2024 to 31-01-2024
+2024-12-28 10:50:46,618 - INFO - Berhasil mengisi filter tanggal 01-01-2024
+2024-12-28 10:50:47,028 - INFO - Berhasil mengisi filter tanggal 31-01-2024
+2024-12-28 10:50:47,979 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:50:48,122 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:50:48,376 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:50:48,947 - INFO - Berhasil membuka modal
+2024-12-28 10:50:48,955 - INFO - Ditemukan 6 tombol Export Excel.
+2024-12-28 10:51:06,624 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:51:06,624 - INFO - Waiting for download...
+2024-12-28 10:51:06,624 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (57).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (57).xlsx'
+2024-12-28 10:51:11,629 - INFO - File Laporan Harian - Pelayanan Pasien (57).xlsx berhasil diunduh.
+2024-12-28 10:51:29,312 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:51:29,312 - INFO - Waiting for download...
+2024-12-28 10:51:29,313 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (58).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (58).xlsx'
+2024-12-28 10:51:34,321 - INFO - File Laporan Harian - Pelayanan Pasien (58).xlsx berhasil diunduh.
+2024-12-28 10:51:52,065 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:51:52,065 - INFO - Waiting for download...
+2024-12-28 10:51:52,065 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (59).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (59).xlsx'
+2024-12-28 10:51:57,072 - INFO - File Laporan Harian - Pelayanan Pasien (59).xlsx berhasil diunduh.
+2024-12-28 10:52:14,733 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:52:14,733 - INFO - Waiting for download...
+2024-12-28 10:52:14,734 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (60).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (60).xlsx'
+2024-12-28 10:52:19,748 - INFO - File Laporan Harian - Pelayanan Pasien (60).xlsx berhasil diunduh.
+2024-12-28 10:52:37,641 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:52:37,641 - INFO - Waiting for download...
+2024-12-28 10:52:37,641 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (61).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (61).xlsx'
+2024-12-28 10:52:42,654 - INFO - File Laporan Harian - Pelayanan Pasien (61).xlsx berhasil diunduh.
+2024-12-28 10:52:58,759 - INFO - Mengklik tombol Export Excel ke-6
+2024-12-28 10:52:58,759 - INFO - Waiting for download...
+2024-12-28 10:52:58,759 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (62).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (62).xlsx'
+2024-12-28 10:53:03,766 - INFO - File Laporan Harian - Pelayanan Pasien (62).xlsx berhasil diunduh.
+2024-12-28 10:53:03,849 - INFO - Processing: 01-02-2024 to 29-02-2024
+2024-12-28 10:53:04,186 - INFO - Berhasil mengisi filter tanggal 01-02-2024
+2024-12-28 10:53:04,522 - INFO - Berhasil mengisi filter tanggal 29-02-2024
+2024-12-28 10:53:07,142 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:53:10,464 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:53:14,254 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:53:14,411 - INFO - Berhasil membuka modal
+2024-12-28 10:53:14,430 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 10:53:32,363 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:53:32,363 - INFO - Waiting for download...
+2024-12-28 10:53:32,363 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (63).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (63).xlsx'
+2024-12-28 10:53:37,368 - INFO - File Laporan Harian - Pelayanan Pasien (63).xlsx berhasil diunduh.
+2024-12-28 10:53:55,281 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:53:55,282 - INFO - Waiting for download...
+2024-12-28 10:53:55,282 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (64).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (64).xlsx'
+2024-12-28 10:54:00,292 - INFO - File Laporan Harian - Pelayanan Pasien (64).xlsx berhasil diunduh.
+2024-12-28 10:54:18,358 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:54:18,359 - INFO - Waiting for download...
+2024-12-28 10:54:18,359 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (65).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (65).xlsx'
+2024-12-28 10:54:23,363 - INFO - File Laporan Harian - Pelayanan Pasien (65).xlsx berhasil diunduh.
+2024-12-28 10:54:41,348 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:54:41,348 - INFO - Waiting for download...
+2024-12-28 10:54:41,348 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (66).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (66).xlsx'
+2024-12-28 10:54:46,350 - INFO - File Laporan Harian - Pelayanan Pasien (66).xlsx berhasil diunduh.
+2024-12-28 10:54:58,641 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:54:58,641 - INFO - Waiting for download...
+2024-12-28 10:54:58,641 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (67).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (67).xlsx'
+2024-12-28 10:55:03,647 - INFO - File Laporan Harian - Pelayanan Pasien (67).xlsx berhasil diunduh.
+2024-12-28 10:55:03,756 - INFO - Processing: 01-03-2024 to 31-03-2024
+2024-12-28 10:55:04,531 - INFO - Berhasil mengisi filter tanggal 01-03-2024
+2024-12-28 10:55:04,872 - INFO - Berhasil mengisi filter tanggal 31-03-2024
+2024-12-28 10:55:07,211 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:55:13,314 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:55:13,806 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:55:14,435 - INFO - Berhasil membuka modal
+2024-12-28 10:55:14,459 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 10:55:32,719 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:55:32,719 - INFO - Waiting for download...
+2024-12-28 10:55:32,719 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (68).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (68).xlsx'
+2024-12-28 10:55:37,731 - INFO - File Laporan Harian - Pelayanan Pasien (68).xlsx berhasil diunduh.
+2024-12-28 10:55:55,629 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:55:55,629 - INFO - Waiting for download...
+2024-12-28 10:55:55,629 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (69).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (69).xlsx'
+2024-12-28 10:56:00,632 - INFO - File Laporan Harian - Pelayanan Pasien (69).xlsx berhasil diunduh.
+2024-12-28 10:56:18,260 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:56:18,260 - INFO - Waiting for download...
+2024-12-28 10:56:18,260 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (70).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (70).xlsx'
+2024-12-28 10:56:23,267 - INFO - File Laporan Harian - Pelayanan Pasien (70).xlsx berhasil diunduh.
+2024-12-28 10:56:41,052 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:56:41,052 - INFO - Waiting for download...
+2024-12-28 10:56:41,054 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (71).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (71).xlsx'
+2024-12-28 10:56:46,069 - INFO - File Laporan Harian - Pelayanan Pasien (71).xlsx berhasil diunduh.
+2024-12-28 10:56:55,929 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:56:55,929 - INFO - Waiting for download...
+2024-12-28 10:56:55,929 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (72).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (72).xlsx'
+2024-12-28 10:57:00,943 - INFO - File Laporan Harian - Pelayanan Pasien (72).xlsx berhasil diunduh.
+2024-12-28 10:57:01,060 - INFO - Processing: 01-04-2024 to 30-04-2024
+2024-12-28 10:57:01,928 - INFO - Berhasil mengisi filter tanggal 01-04-2024
+2024-12-28 10:57:02,230 - INFO - Berhasil mengisi filter tanggal 30-04-2024
+2024-12-28 10:57:04,840 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:57:07,719 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:57:10,882 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:57:10,997 - INFO - Berhasil membuka modal
+2024-12-28 10:57:11,028 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 10:57:29,102 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:57:29,103 - INFO - Waiting for download...
+2024-12-28 10:57:29,103 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (73).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (73).xlsx'
+2024-12-28 10:57:34,110 - INFO - File Laporan Harian - Pelayanan Pasien (73).xlsx berhasil diunduh.
+2024-12-28 10:57:51,516 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:57:51,516 - INFO - Waiting for download...
+2024-12-28 10:57:51,516 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (74).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (74).xlsx'
+2024-12-28 10:57:56,522 - INFO - File Laporan Harian - Pelayanan Pasien (74).xlsx berhasil diunduh.
+2024-12-28 10:58:14,554 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 10:58:14,554 - INFO - Waiting for download...
+2024-12-28 10:58:14,554 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (75).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (75).xlsx'
+2024-12-28 10:58:19,561 - INFO - File Laporan Harian - Pelayanan Pasien (75).xlsx berhasil diunduh.
+2024-12-28 10:58:36,939 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 10:58:36,939 - INFO - Waiting for download...
+2024-12-28 10:58:36,939 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (76).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (76).xlsx'
+2024-12-28 10:58:41,941 - INFO - File Laporan Harian - Pelayanan Pasien (76).xlsx berhasil diunduh.
+2024-12-28 10:58:50,309 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 10:58:50,310 - INFO - Waiting for download...
+2024-12-28 10:58:50,310 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (77).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (77).xlsx'
+2024-12-28 10:58:55,311 - INFO - File Laporan Harian - Pelayanan Pasien (77).xlsx berhasil diunduh.
+2024-12-28 10:58:55,438 - INFO - Processing: 01-05-2024 to 31-05-2024
+2024-12-28 10:58:56,218 - INFO - Berhasil mengisi filter tanggal 01-05-2024
+2024-12-28 10:58:56,464 - INFO - Berhasil mengisi filter tanggal 31-05-2024
+2024-12-28 10:58:57,387 - INFO - Mengklik tombol tampilkan
+2024-12-28 10:58:57,635 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 10:58:57,830 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 10:58:58,416 - INFO - Berhasil membuka modal
+2024-12-28 10:58:58,425 - INFO - Ditemukan 6 tombol Export Excel.
+2024-12-28 10:59:16,058 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 10:59:16,058 - INFO - Waiting for download...
+2024-12-28 10:59:16,059 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (78).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (78).xlsx'
+2024-12-28 10:59:21,074 - INFO - File Laporan Harian - Pelayanan Pasien (78).xlsx berhasil diunduh.
+2024-12-28 10:59:38,596 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 10:59:38,596 - INFO - Waiting for download...
+2024-12-28 10:59:38,596 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (79).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (79).xlsx'
+2024-12-28 10:59:43,602 - INFO - File Laporan Harian - Pelayanan Pasien (79).xlsx berhasil diunduh.
+2024-12-28 11:00:01,077 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 11:00:01,077 - INFO - Waiting for download...
+2024-12-28 11:00:01,077 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (80).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (80).xlsx'
+2024-12-28 11:00:06,086 - INFO - File Laporan Harian - Pelayanan Pasien (80).xlsx berhasil diunduh.
+2024-12-28 11:00:23,728 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 11:00:23,728 - INFO - Waiting for download...
+2024-12-28 11:00:23,728 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (81).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (81).xlsx'
+2024-12-28 11:00:28,729 - INFO - File Laporan Harian - Pelayanan Pasien (81).xlsx berhasil diunduh.
+2024-12-28 11:00:46,265 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 11:00:46,265 - INFO - Waiting for download...
+2024-12-28 11:00:46,265 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (82).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (82).xlsx'
+2024-12-28 11:00:51,274 - INFO - File Laporan Harian - Pelayanan Pasien (82).xlsx berhasil diunduh.
+2024-12-28 11:01:01,261 - INFO - Mengklik tombol Export Excel ke-6
+2024-12-28 11:01:01,261 - INFO - Waiting for download...
+2024-12-28 11:01:01,261 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (83).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (83).xlsx'
+2024-12-28 11:01:06,273 - INFO - File Laporan Harian - Pelayanan Pasien (83).xlsx berhasil diunduh.
+2024-12-28 11:01:06,359 - INFO - Processing: 01-06-2024 to 30-06-2024
+2024-12-28 11:01:06,679 - INFO - Berhasil mengisi filter tanggal 01-06-2024
+2024-12-28 11:01:06,988 - INFO - Berhasil mengisi filter tanggal 30-06-2024
+2024-12-28 11:01:07,894 - INFO - Mengklik tombol tampilkan
+2024-12-28 11:01:08,038 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 11:01:08,119 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 11:01:08,695 - INFO - Berhasil membuka modal
+2024-12-28 11:01:08,703 - INFO - Ditemukan 5 tombol Export Excel.
+2024-12-28 11:01:26,368 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 11:01:26,368 - INFO - Waiting for download...
+2024-12-28 11:01:26,368 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (84).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (84).xlsx'
+2024-12-28 11:01:31,377 - INFO - File Laporan Harian - Pelayanan Pasien (84).xlsx berhasil diunduh.
+2024-12-28 11:01:48,698 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 11:01:48,698 - INFO - Waiting for download...
+2024-12-28 11:01:48,699 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (85).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (85).xlsx'
+2024-12-28 11:01:53,702 - INFO - File Laporan Harian - Pelayanan Pasien (85).xlsx berhasil diunduh.
+2024-12-28 11:02:11,293 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 11:02:11,293 - INFO - Waiting for download...
+2024-12-28 11:02:11,293 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (86).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (86).xlsx'
+2024-12-28 11:02:16,299 - INFO - File Laporan Harian - Pelayanan Pasien (86).xlsx berhasil diunduh.
+2024-12-28 11:02:33,948 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 11:02:33,948 - INFO - Waiting for download...
+2024-12-28 11:02:33,948 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (87).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (87).xlsx'
+2024-12-28 11:02:38,961 - INFO - File Laporan Harian - Pelayanan Pasien (87).xlsx berhasil diunduh.
+2024-12-28 11:02:53,199 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 11:02:53,199 - INFO - Waiting for download...
+2024-12-28 11:02:53,199 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (88).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (88).xlsx'
+2024-12-28 11:02:58,201 - INFO - File Laporan Harian - Pelayanan Pasien (88).xlsx berhasil diunduh.
+2024-12-28 11:02:58,286 - INFO - Processing: 01-07-2024 to 31-07-2024
+2024-12-28 11:02:58,589 - INFO - Berhasil mengisi filter tanggal 01-07-2024
+2024-12-28 11:02:59,139 - INFO - Berhasil mengisi filter tanggal 31-07-2024
+2024-12-28 11:03:01,820 - INFO - Mengklik tombol tampilkan
+2024-12-28 11:03:05,296 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 11:03:09,038 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 11:03:09,206 - INFO - Berhasil membuka modal
+2024-12-28 11:03:09,310 - INFO - Ditemukan 6 tombol Export Excel.
+2024-12-28 11:03:27,312 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 11:03:27,312 - INFO - Waiting for download...
+2024-12-28 11:03:27,312 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (89).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (89).xlsx'
+2024-12-28 11:03:32,328 - INFO - File Laporan Harian - Pelayanan Pasien (89).xlsx berhasil diunduh.
+2024-12-28 11:03:49,864 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 11:03:49,864 - INFO - Waiting for download...
+2024-12-28 11:03:49,864 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (90).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (90).xlsx'
+2024-12-28 11:03:54,877 - INFO - File Laporan Harian - Pelayanan Pasien (90).xlsx berhasil diunduh.
+2024-12-28 11:04:12,819 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 11:04:12,819 - INFO - Waiting for download...
+2024-12-28 11:04:12,819 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (91).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (91).xlsx'
+2024-12-28 11:04:17,835 - INFO - File Laporan Harian - Pelayanan Pasien (91).xlsx berhasil diunduh.
+2024-12-28 11:04:35,709 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 11:04:35,710 - INFO - Waiting for download...
+2024-12-28 11:04:35,710 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (92).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (92).xlsx'
+2024-12-28 11:04:40,716 - INFO - File Laporan Harian - Pelayanan Pasien (92).xlsx berhasil diunduh.
+2024-12-28 11:04:58,551 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 11:04:58,552 - INFO - Waiting for download...
+2024-12-28 11:04:58,552 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (93).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (93).xlsx'
+2024-12-28 11:05:03,558 - INFO - File Laporan Harian - Pelayanan Pasien (93).xlsx berhasil diunduh.
+2024-12-28 11:05:14,487 - INFO - Mengklik tombol Export Excel ke-6
+2024-12-28 11:05:14,488 - INFO - Waiting for download...
+2024-12-28 11:05:14,488 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (94).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (94).xlsx'
+2024-12-28 11:05:19,491 - INFO - File Laporan Harian - Pelayanan Pasien (94).xlsx berhasil diunduh.
+2024-12-28 11:05:19,613 - INFO - Processing: 01-08-2024 to 31-08-2024
+2024-12-28 11:05:20,343 - INFO - Berhasil mengisi filter tanggal 01-08-2024
+2024-12-28 11:05:20,698 - INFO - Berhasil mengisi filter tanggal 31-08-2024
+2024-12-28 11:05:23,353 - INFO - Mengklik tombol tampilkan
+2024-12-28 11:05:30,868 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 11:05:31,946 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 11:05:32,137 - INFO - Berhasil membuka modal
+2024-12-28 11:05:32,255 - INFO - Ditemukan 6 tombol Export Excel.
+2024-12-28 11:05:50,955 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 11:05:50,955 - INFO - Waiting for download...
+2024-12-28 11:05:50,955 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (95).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (95).xlsx'
+2024-12-28 11:05:55,967 - INFO - File Laporan Harian - Pelayanan Pasien (95).xlsx berhasil diunduh.
+2024-12-28 11:06:14,654 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 11:06:14,654 - INFO - Waiting for download...
+2024-12-28 11:06:14,654 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (96).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (96).xlsx'
+2024-12-28 11:06:14,655 - INFO - File Laporan Harian - Pelayanan Pasien (96).xlsx berhasil diunduh.
+2024-12-28 11:06:33,173 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 11:06:33,173 - INFO - Waiting for download...
+2024-12-28 11:06:33,173 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (97).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (97).xlsx'
+2024-12-28 11:06:38,184 - INFO - File Laporan Harian - Pelayanan Pasien (97).xlsx berhasil diunduh.
+2024-12-28 11:06:56,255 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 11:06:56,257 - INFO - Waiting for download...
+2024-12-28 11:06:56,257 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (98).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (98).xlsx'
+2024-12-28 11:07:01,270 - INFO - File Laporan Harian - Pelayanan Pasien (98).xlsx berhasil diunduh.
+2024-12-28 11:07:19,546 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 11:07:19,546 - INFO - Waiting for download...
+2024-12-28 11:07:19,546 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (99).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (99).xlsx'
+2024-12-28 11:07:24,547 - INFO - File Laporan Harian - Pelayanan Pasien (99).xlsx berhasil diunduh.
+2024-12-28 11:07:35,606 - INFO - Mengklik tombol Export Excel ke-6
+2024-12-28 11:07:35,606 - INFO - Waiting for download...
+2024-12-28 11:07:35,607 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (100).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (100).xlsx'
+2024-12-28 11:07:40,617 - INFO - File Laporan Harian - Pelayanan Pasien (100).xlsx berhasil diunduh.
+2024-12-28 11:07:40,740 - INFO - Processing: 01-09-2024 to 30-09-2024
+2024-12-28 11:07:41,503 - INFO - Berhasil mengisi filter tanggal 01-09-2024
+2024-12-28 11:07:41,816 - INFO - Berhasil mengisi filter tanggal 30-09-2024
+2024-12-28 11:07:42,731 - INFO - Mengklik tombol tampilkan
+2024-12-28 11:07:42,871 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 11:07:42,942 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 11:07:43,528 - INFO - Berhasil membuka modal
+2024-12-28 11:07:43,538 - INFO - Ditemukan 6 tombol Export Excel.
+2024-12-28 11:08:02,389 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 11:08:02,389 - INFO - Waiting for download...
+2024-12-28 11:08:02,390 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (101).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (101).xlsx'
+2024-12-28 11:10:32,598 - INFO - File 'Laporan Harian - Pelayanan Pasien (101).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:10:32,599 - INFO - File Laporan Harian - Pelayanan Pasien (101).xlsx berhasil diunduh.
+2024-12-28 11:10:51,372 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 11:10:51,372 - INFO - Waiting for download...
+2024-12-28 11:10:51,372 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (102).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (102).xlsx'
+2024-12-28 11:13:21,608 - INFO - File 'Laporan Harian - Pelayanan Pasien (102).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:13:21,608 - INFO - File Laporan Harian - Pelayanan Pasien (102).xlsx berhasil diunduh.
+2024-12-28 11:13:40,478 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 11:13:40,478 - INFO - Waiting for download...
+2024-12-28 11:13:40,478 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (103).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (103).xlsx'
+2024-12-28 11:16:10,715 - INFO - File 'Laporan Harian - Pelayanan Pasien (103).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:16:10,715 - INFO - File Laporan Harian - Pelayanan Pasien (103).xlsx berhasil diunduh.
+2024-12-28 11:16:29,400 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 11:16:29,400 - INFO - Waiting for download...
+2024-12-28 11:16:29,400 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (104).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (104).xlsx'
+2024-12-28 11:18:59,600 - INFO - File 'Laporan Harian - Pelayanan Pasien (104).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:18:59,600 - INFO - File Laporan Harian - Pelayanan Pasien (104).xlsx berhasil diunduh.
+2024-12-28 11:19:18,120 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 11:19:18,120 - INFO - Waiting for download...
+2024-12-28 11:19:18,121 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (105).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (105).xlsx'
+2024-12-28 11:21:48,363 - INFO - File 'Laporan Harian - Pelayanan Pasien (105).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:21:48,364 - INFO - File Laporan Harian - Pelayanan Pasien (105).xlsx berhasil diunduh.
+2024-12-28 11:22:02,213 - INFO - Mengklik tombol Export Excel ke-6
+2024-12-28 11:22:02,213 - INFO - Waiting for download...
+2024-12-28 11:22:02,213 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (106).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (106).xlsx'
+2024-12-28 11:24:32,433 - INFO - File 'Laporan Harian - Pelayanan Pasien (106).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:24:32,433 - INFO - File Laporan Harian - Pelayanan Pasien (106).xlsx berhasil diunduh.
+2024-12-28 11:24:32,615 - INFO - Processing: 01-10-2024 to 31-10-2024
+2024-12-28 11:24:32,842 - INFO - Berhasil mengisi filter tanggal 01-10-2024
+2024-12-28 11:24:33,025 - INFO - Berhasil mengisi filter tanggal 31-10-2024
+2024-12-28 11:24:35,858 - INFO - Mengklik tombol tampilkan
+2024-12-28 11:24:43,796 - INFO - Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi
+2024-12-28 11:24:48,517 - INFO - Mengklik tombol export untuk memunculkan modal
+2024-12-28 11:24:48,764 - INFO - Berhasil membuka modal
+2024-12-28 11:24:48,808 - INFO - Ditemukan 7 tombol Export Excel.
+2024-12-28 11:25:07,104 - INFO - Mengklik tombol Export Excel ke-1
+2024-12-28 11:25:07,104 - INFO - Waiting for download...
+2024-12-28 11:25:07,104 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (107).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (107).xlsx'
+2024-12-28 11:27:37,346 - INFO - File 'Laporan Harian - Pelayanan Pasien (107).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:27:37,346 - INFO - File Laporan Harian - Pelayanan Pasien (107).xlsx berhasil diunduh.
+2024-12-28 11:27:55,543 - INFO - Mengklik tombol Export Excel ke-2
+2024-12-28 11:27:55,544 - INFO - Waiting for download...
+2024-12-28 11:27:55,544 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (108).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (108).xlsx'
+2024-12-28 11:30:25,802 - INFO - File 'Laporan Harian - Pelayanan Pasien (108).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:30:25,802 - INFO - File Laporan Harian - Pelayanan Pasien (108).xlsx berhasil diunduh.
+2024-12-28 11:30:44,297 - INFO - Mengklik tombol Export Excel ke-3
+2024-12-28 11:30:44,297 - INFO - Waiting for download...
+2024-12-28 11:30:44,297 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (109).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (109).xlsx'
+2024-12-28 11:33:14,545 - INFO - File 'Laporan Harian - Pelayanan Pasien (109).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:33:14,545 - INFO - File Laporan Harian - Pelayanan Pasien (109).xlsx berhasil diunduh.
+2024-12-28 11:33:33,439 - INFO - Mengklik tombol Export Excel ke-4
+2024-12-28 11:33:33,439 - INFO - Waiting for download...
+2024-12-28 11:33:33,439 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (110).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (110).xlsx'
+2024-12-28 11:36:03,696 - INFO - File 'Laporan Harian - Pelayanan Pasien (110).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-28 11:36:03,696 - INFO - File Laporan Harian - Pelayanan Pasien (110).xlsx berhasil diunduh.
+2024-12-28 11:36:22,497 - INFO - Mengklik tombol Export Excel ke-5
+2024-12-28 11:36:22,497 - INFO - Waiting for download...
+2024-12-28 11:36:22,498 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (111).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_mangkubumi\Laporan Harian - Pelayanan Pasien (111).xlsx'

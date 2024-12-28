@@ -1,0 +1,94 @@
+2024-12-27 19:43:16,980 - INFO - Login berhasil.
+2024-12-27 19:43:23,693 - INFO - Processing: 01-01-2023 to 31-01-2023
+2024-12-27 19:43:38,885 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien.xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien.xlsx'
+2024-12-27 19:43:43,935 - INFO - File Laporan Harian - Pelayanan Pasien.xlsx berhasil diunduh.
+2024-12-27 19:43:54,749 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (1).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (1).xlsx'
+2024-12-27 19:43:59,754 - INFO - File Laporan Harian - Pelayanan Pasien (1).xlsx berhasil diunduh.
+2024-12-27 19:44:09,165 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (2).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (2).xlsx'
+2024-12-27 19:44:14,170 - INFO - File Laporan Harian - Pelayanan Pasien (2).xlsx berhasil diunduh.
+2024-12-27 19:44:14,430 - INFO - Processing: 01-02-2023 to 28-02-2023
+2024-12-27 19:44:38,417 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (3).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (3).xlsx'
+2024-12-27 19:44:43,427 - INFO - File Laporan Harian - Pelayanan Pasien (3).xlsx berhasil diunduh.
+2024-12-27 19:44:54,242 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (4).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (4).xlsx'
+2024-12-27 19:44:59,247 - INFO - File Laporan Harian - Pelayanan Pasien (4).xlsx berhasil diunduh.
+2024-12-27 19:45:07,681 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (5).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (5).xlsx'
+2024-12-27 19:45:12,689 - INFO - File Laporan Harian - Pelayanan Pasien (5).xlsx berhasil diunduh.
+2024-12-27 19:45:12,972 - INFO - Processing: 01-03-2023 to 31-03-2023
+2024-12-27 19:45:33,552 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (6).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (6).xlsx'
+2024-12-27 19:45:38,560 - INFO - File Laporan Harian - Pelayanan Pasien (6).xlsx berhasil diunduh.
+2024-12-27 19:45:49,454 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (7).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (7).xlsx'
+2024-12-27 19:45:54,467 - INFO - File Laporan Harian - Pelayanan Pasien (7).xlsx berhasil diunduh.
+2024-12-27 19:46:03,886 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (8).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (8).xlsx'
+2024-12-27 19:46:08,892 - INFO - File Laporan Harian - Pelayanan Pasien (8).xlsx berhasil diunduh.
+2024-12-27 19:46:09,273 - INFO - Processing: 01-04-2023 to 30-04-2023
+2024-12-27 19:46:32,336 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (9).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (9).xlsx'
+2024-12-27 19:46:37,351 - INFO - File Laporan Harian - Pelayanan Pasien (9).xlsx berhasil diunduh.
+2024-12-27 19:46:48,178 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (10).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (10).xlsx'
+2024-12-27 19:46:53,186 - INFO - File Laporan Harian - Pelayanan Pasien (10).xlsx berhasil diunduh.
+2024-12-27 19:46:56,618 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (11).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (11).xlsx'
+2024-12-27 19:47:01,622 - INFO - File Laporan Harian - Pelayanan Pasien (11).xlsx berhasil diunduh.
+2024-12-27 19:47:01,919 - INFO - Processing: 01-05-2023 to 31-05-2023
+2024-12-27 19:47:16,879 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (12).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (12).xlsx'
+2024-12-27 19:47:21,895 - INFO - File Laporan Harian - Pelayanan Pasien (12).xlsx berhasil diunduh.
+2024-12-27 19:47:32,853 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (13).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (13).xlsx'
+2024-12-27 19:47:37,861 - INFO - File Laporan Harian - Pelayanan Pasien (13).xlsx berhasil diunduh.
+2024-12-27 19:47:48,676 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (14).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (14).xlsx'
+2024-12-27 19:47:53,691 - INFO - File Laporan Harian - Pelayanan Pasien (14).xlsx berhasil diunduh.
+2024-12-27 19:47:57,111 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (15).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (15).xlsx'
+2024-12-27 19:48:02,124 - INFO - File Laporan Harian - Pelayanan Pasien (15).xlsx berhasil diunduh.
+2024-12-27 19:48:02,374 - INFO - Processing: 01-06-2023 to 30-06-2023
+2024-12-27 19:48:17,423 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (16).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (16).xlsx'
+2024-12-27 19:48:22,428 - INFO - File Laporan Harian - Pelayanan Pasien (16).xlsx berhasil diunduh.
+2024-12-27 19:48:33,074 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (17).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (17).xlsx'
+2024-12-27 19:48:38,075 - INFO - File Laporan Harian - Pelayanan Pasien (17).xlsx berhasil diunduh.
+2024-12-27 19:48:46,928 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (18).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (18).xlsx'
+2024-12-27 19:48:51,943 - INFO - File Laporan Harian - Pelayanan Pasien (18).xlsx berhasil diunduh.
+2024-12-27 19:48:52,167 - INFO - Processing: 01-07-2023 to 31-07-2023
+2024-12-27 19:49:12,528 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (19).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (19).xlsx'
+2024-12-27 19:49:17,530 - INFO - File Laporan Harian - Pelayanan Pasien (19).xlsx berhasil diunduh.
+2024-12-27 19:49:28,245 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (20).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (20).xlsx'
+2024-12-27 19:49:33,258 - INFO - File Laporan Harian - Pelayanan Pasien (20).xlsx berhasil diunduh.
+2024-12-27 19:49:44,072 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (21).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (21).xlsx'
+2024-12-27 19:49:49,081 - INFO - File Laporan Harian - Pelayanan Pasien (21).xlsx berhasil diunduh.
+2024-12-27 19:49:52,745 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (22).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (22).xlsx'
+2024-12-27 19:49:57,757 - INFO - File Laporan Harian - Pelayanan Pasien (22).xlsx berhasil diunduh.
+2024-12-27 19:49:58,069 - INFO - Processing: 01-08-2023 to 31-08-2023
+2024-12-27 19:50:22,052 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (23).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (23).xlsx'
+2024-12-27 19:50:27,057 - INFO - File Laporan Harian - Pelayanan Pasien (23).xlsx berhasil diunduh.
+2024-12-27 19:50:37,829 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (24).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (24).xlsx'
+2024-12-27 19:50:42,841 - INFO - File Laporan Harian - Pelayanan Pasien (24).xlsx berhasil diunduh.
+2024-12-27 19:50:53,556 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (25).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (25).xlsx'
+2024-12-27 19:50:58,567 - INFO - File Laporan Harian - Pelayanan Pasien (25).xlsx berhasil diunduh.
+2024-12-27 19:51:05,443 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (26).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (26).xlsx'
+2024-12-27 19:51:10,448 - INFO - File Laporan Harian - Pelayanan Pasien (26).xlsx berhasil diunduh.
+2024-12-27 19:51:10,797 - INFO - Processing: 01-09-2023 to 30-09-2023
+2024-12-27 19:51:34,401 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (27).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (27).xlsx'
+2024-12-27 19:51:39,404 - INFO - File Laporan Harian - Pelayanan Pasien (27).xlsx berhasil diunduh.
+2024-12-27 19:51:50,159 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (28).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (28).xlsx'
+2024-12-27 19:51:55,164 - INFO - File Laporan Harian - Pelayanan Pasien (28).xlsx berhasil diunduh.
+2024-12-27 19:52:06,007 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (29).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (29).xlsx'
+2024-12-27 19:52:11,018 - INFO - File Laporan Harian - Pelayanan Pasien (29).xlsx berhasil diunduh.
+2024-12-27 19:52:18,560 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (30).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (30).xlsx'
+2024-12-27 19:52:23,575 - INFO - File Laporan Harian - Pelayanan Pasien (30).xlsx berhasil diunduh.
+2024-12-27 19:52:23,930 - INFO - Processing: 01-10-2023 to 31-10-2023
+2024-12-27 19:52:39,205 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (31).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (31).xlsx'
+2024-12-27 19:52:44,211 - INFO - File Laporan Harian - Pelayanan Pasien (31).xlsx berhasil diunduh.
+2024-12-27 19:52:55,186 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (32).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (32).xlsx'
+2024-12-27 19:53:00,195 - INFO - File Laporan Harian - Pelayanan Pasien (32).xlsx berhasil diunduh.
+2024-12-27 19:53:10,913 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (33).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (33).xlsx'
+2024-12-27 19:53:15,928 - INFO - File Laporan Harian - Pelayanan Pasien (33).xlsx berhasil diunduh.
+2024-12-27 19:53:22,530 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (34).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (34).xlsx'
+2024-12-27 19:53:27,534 - INFO - File Laporan Harian - Pelayanan Pasien (34).xlsx berhasil diunduh.
+2024-12-27 19:53:27,796 - INFO - Processing: 01-11-2023 to 30-11-2023
+2024-12-27 19:53:55,560 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (35).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (35).xlsx'
+2024-12-27 19:54:00,567 - INFO - File Laporan Harian - Pelayanan Pasien (35).xlsx berhasil diunduh.
+2024-12-27 19:54:11,413 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (36).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (36).xlsx'
+2024-12-27 19:56:41,619 - INFO - File 'Laporan Harian - Pelayanan Pasien (36).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-27 19:56:41,620 - INFO - File Laporan Harian - Pelayanan Pasien (36).xlsx berhasil diunduh.
+2024-12-27 19:56:41,728 - INFO - Terjadi kesalahan ketika mendownload file Kunjungan Excel (37), Mencoba Ulang Progses. Percobaan ke- 1
+2024-12-27 19:56:41,742 - INFO - Mencoba Ulang Progses. Percobaan ke- 1
+2024-12-27 19:56:41,823 - INFO - Mengecek apakah modal pelayanan terbuka setelah browser di back?
+2024-12-27 19:56:41,969 - INFO - Berhasil mengatasi error 500. Mencoba kembali membuka modal ...
+2024-12-27 19:56:51,928 - INFO - Mengecek file 'Laporan Harian - Pelayanan Pasien (37).xlsx di C:\Users\frsnm\Downloads\data_pelayanan_cigeureung\Laporan Harian - Pelayanan Pasien (37).xlsx'
+2024-12-27 19:59:22,142 - INFO - File 'Laporan Harian - Pelayanan Pasien (37).xlsx' tidak ditemukan setelah 30 detik.
+2024-12-27 19:59:22,143 - INFO - File Laporan Harian - Pelayanan Pasien (37).xlsx berhasil diunduh.
