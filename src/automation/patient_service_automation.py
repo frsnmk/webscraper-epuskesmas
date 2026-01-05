@@ -7,6 +7,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from calendar import monthrange
 from datetime import datetime
+from config.untils import wait_for_download_with_watchdog
+
 
 class PatientServiceAutomation(BaseAutomation):
     def __init__(self, driver, base_url, username, password, logger, download_folder_location):
@@ -63,7 +65,7 @@ class PatientServiceAutomation(BaseAutomation):
         # Tunggu hingga data yang sesuai muncul
         expected_text = f"{start_date} - {end_date}"
         WebDriverWait(self.driver, 10).until(
-            EC.text_to_be_present_in_element((By.XPATH, '''/html/body/section/div/div[2]/div/table/thead/tr[3]/th[2]'''), expected_text) # Buat pelayanan
+            EC.text_to_be_present_in_element((By.XPATH, f'''//table/thead/tr[3]/th[2][contains(text(), '{start_date} - {end_date}')]'''), expected_text) # Buat pelayanan
         )
         self.logger.info("Berhasil melakukan pengecekan tanggal yang diisi dengan tanggal yang ada di laporan dengan tanggal yang diisi")
 
@@ -112,6 +114,10 @@ class PatientServiceAutomation(BaseAutomation):
         self.logger.info(f"Ditemukan {len(export_buttons)} tombol Export Excel.")
         for index, button in enumerate(export_buttons, start=0):
             button.click()
+            if self.handle_error_and_retry():
+                if not self.check_or_reopen_modal():
+                    self.logger.info("Modal dibuka ulang menggunakan tombol export.")
+                self.export_button()
             self.logger.info(f"Mengklik tombol Export Excel ke-{index+1}")
 
             expected_file_download_name = ""
@@ -132,17 +138,28 @@ class PatientServiceAutomation(BaseAutomation):
 
         exit_modal_button.click()
 
-    def wait_for_download(self, filename, download_folder="downloads", timeout=30):
-        """Menunggu hingga file tertentu muncul di folder download."""
-        self.logger.info("Waiting for download...")
-        file_path = os.path.join(download_folder, filename)
-        self.logger.info(f"Mengecek file '{filename} di {file_path}'")
-        for _ in range(timeout):
-            if os.path.exists(file_path):
-                return True  # File ditemukan
-            time.sleep(5)  # Tunggu 3 detik sebelum cek lagi
-        self.logger.info(f"File '{filename}' tidak ditemukan setelah {timeout} detik.")
-        return True
+    # def wait_for_download(self, filename, download_folder="downloads", timeout=15):
+    #     """Menunggu hingga file tertentu muncul di folder download."""
+    #     self.logger.info("Waiting for download...")
+    #     file_path = os.path.join(download_folder, filename)
+    #     self.logger.info(f"Mengecek file '{filename} di {file_path}'")
+    #     for _ in range(timeout):
+    #         if os.path.exists(file_path):
+    #             return True  # File ditemukan
+    #         time.sleep(1)  # Tunggu 3 detik sebelum cek lagi
+    #     self.logger.info(f"File '{filename}' tidak ditemukan setelah {timeout} detik.")
+    #     return True
+    
+
+    def wait_for_download(self, filename, download_folder="downloads", timeout=15):
+        """Menunggu hingga file tertentu muncul di folder download menggunakan Watchdog."""
+        return wait_for_download_with_watchdog(
+            expected_filename=filename,
+            download_folder=download_folder,
+            timeout=timeout,
+            logger=self.logger
+        )
+
 
     def scroll_to_element(self, driver, element):
         """Scroll ke elemen agar terlihat di viewport."""
@@ -167,13 +184,14 @@ class PatientServiceAutomation(BaseAutomation):
 
     def handle_error_and_retry(self, retries=3):
         for attempt in range(1, retries+1):
-            self.logger.info(f"Terjadi kesalahan ketika mendownload file Kunjungan Excel ({self.index_file_download}), Mencoba Ulang Progses. Percobaan ke- {attempt}")
+            self.logger.info(f"Pengecekan error Excel ({self.index_file_download}), Mencoba Ulang Progses. Percobaan ke- {attempt}")
             if "ePuskesmas.id - 5xx" in self.driver.title:
                 self.logger.info(f"Terjadi error 500 pada percobaan ke-{attempt}")
                 self.logger.info(f"Mencoba Ulang Progses. Percobaan ke- {attempt}")
                 self.driver.back()
                 return True
             else:
+                self.logger.info("Untungnya tidak ada error")
                 return False
         raise Exception("Gagal mengatasi error 500 setalah beberpa percobaan")
 

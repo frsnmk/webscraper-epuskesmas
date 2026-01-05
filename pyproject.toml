@@ -9,6 +9,7 @@ packages = [{include = "webscraper_epuskesmas"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 selenium = "^4.27.1"
+watchdog = "^6.0.0"
 
 
 [build-system]

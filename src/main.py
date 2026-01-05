@@ -14,6 +14,9 @@ if __name__ == '__main__':
 
     download_folder = DOWNLOAD_FOLDER_LOCATION
     chrome_options = Options()
+    chrome_options.headless = True
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--no-sandbox") 
     prefs = {"download.default_directory": download_folder}
     chrome_options.add_experimental_option("prefs", prefs)
     
